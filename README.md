@@ -10,7 +10,7 @@ A beautiful and simple Notes app built with Flutter. It allows users to create, 
 - 🌟 Mark/unmark notes as Favorite
 - 🗂️ Tab layout: All Notes | Favorites
 - 💾 Local storage using Hive
-- ☁️ Cloud sync with Firebase Firestore (optional)
+- ☁️ Cloud sync with Firebase Firestore
 - 🎯 Clean and responsive UI
 - 🔔 Real-time updates when syncing with Firestore
 
@@ -20,8 +20,8 @@ A beautiful and simple Notes app built with Flutter. It allows users to create, 
 
 - **Flutter** (Dart)
 - **Hive** – local NoSQL storage
-- **Firebase Firestore** – optional cloud backup
-- **Provider** (or BLoC — update based on your code)
+- **Firebase Firestore** 
+- **Provider** 
 - **Material Design 3**
 
 ---
