@@ -1,16 +1,27 @@
-# flutter_app
+# 📝 NotesApp - Flutter
 
-A new Flutter project.
+A beautiful and simple Notes app built with Flutter. It allows users to create, delete, and favorite notes with local storage via Hive and optional cloud sync via Firebase Firestore.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Create, edit, and delete notes
+- 🌟 Mark/unmark notes as Favorite
+- 🗂️ Tab layout: All Notes | Favorites
+- 💾 Local storage using Hive
+- ☁️ Cloud sync with Firebase Firestore (optional)
+- 🎯 Clean and responsive UI
+- 🔔 Real-time updates when syncing with Firestore
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- **Hive** – local NoSQL storage
+- **Firebase Firestore** – optional cloud backup
+- **Provider** (or BLoC — update based on your code)
+- **Material Design 3**
+
+---
